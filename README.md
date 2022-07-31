@@ -1,0 +1,4 @@
+- 👋 Hi, I’m FatalError
+- 👀 I’m interested in developing malwares/mods for games
+- 🌱 I’m currently learning C#/C
+- 📫 How to reach me ... idk
