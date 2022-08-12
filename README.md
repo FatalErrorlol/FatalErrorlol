@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Wing-Cho
+- 👋 Hi, I’m W-O - 68
 - 👀 I’m interested in developing malwares/mods for games/useful programs
 - 🌱 I’m currently learning C#/C
 - 📫 How to reach me ... idk
